@@ -27,6 +27,11 @@ Este projeto consiste na **Análise Exploratória de Dados (EDA)** e **Auditoria
 
 ---
 
+## Kaggle
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+---
+
 ## Próximos Passos (Backlog v2.0)
 - [ ] Exportar as tabelas consolidadas para criação de um Dashboard Executivo no Power BI.
 - [ ] Analisar a correlação entre tempo de entrega (`freight_value` / prazo) e taxa de satisfação do cliente.
